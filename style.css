@@ -101,7 +101,7 @@ body
     margin-top: 1rem;
 }
 
-.instagram-Alterar,.instagram-Inscreva 
+.instagram-Alterar,.instagram-Inscreva /*Adicionei mais duas classes no botão Alterar conta e Cadastar Conta*/
 {
     color: #0095f6;
     margin-top: 1rem;
